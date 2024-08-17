@@ -27,3 +27,10 @@ git commit -m "mensaje": Guarda los cambios en el historial del repositorio con 
 
 
 ![alt text](image-1.png)
+
+
+## Configura el correo en git local de manera correcta
+
+![alt text](image.png)
+
+
